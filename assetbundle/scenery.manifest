@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4196579118
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 200b84960434c259254c22498d6e28c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3658eba851cae40c8a62ed43afdd5c4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+Assets:
+- Assets/SCENARY/bulbPurple.prefab
+- Assets/SCENARY/bulbGreen.prefab
+- Assets/SCENARY/bulbYellow.prefab
+- Assets/SCENARY/bulbOrange.prefab
+- Assets/SCENARY/bulbLightBlue.prefab
+- Assets/SCENARY/bulbRed.prefab
+- Assets/SCENARY/bulbBlack.prefab
+- Assets/SCENARY/bulbBlue.prefab
+- Assets/SCENARY/bulbWhite.prefab
+- Assets/SCENARY/bulbPink.prefab
+Dependencies: []

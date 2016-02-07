@@ -1,0 +1,81 @@
+﻿{
+    "Black Light Source": {
+		"model": "bulbBlack",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Blue Light Source": {
+		"model": "bulbBlue",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Green Light Source": {
+		"model": "bulbGreen",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Light Blue Light Source": {
+		"model": "bulbLightBlue",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Orange Light Source": {
+		"model": "bulbOrange",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Pink Light Source": {
+		"model": "bulbPink",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Purple Light Source": {
+		"model": "bulbPurple",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Red Light Source": {
+		"model": "bulbRed",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"White Light Source": {
+		"model": "bulbWhite",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+	
+	"Yellow Light Source": {
+		"model": "bulbYellow",
+		"type": "deco",
+		"price": 20.5,
+		"grid": false,
+		"heightDelta": 0.1
+	}
+}
